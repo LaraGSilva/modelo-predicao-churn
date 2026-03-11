@@ -152,4 +152,4 @@ O arquivo `Desafios_+Hora+da+prática.ipynb` contém o desenvolvimento completo 
 
 ## Autor
 
-Desenvolvido como parte do curso POS TECH ML.
+Desenvolvido como parte do curso POS TECH ML - Lara Gonçalves
